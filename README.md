@@ -1,5 +1,5 @@
 # Microsoft Movie Studio Proposal
-
+![Microsoft]([url_of_image](https://github.com/Leon380/Project_A/blob/main/images/micrsoft.jfif))
 ## Project Overview
 The main aim of this analysis is to advise Microsoft on which movies to produce and the cost involved.  Basing on the current moving studios, descriptive analysis on the movie stores and orders as to have a clear picture of which movies are profitable. This will then be used by Microsoft to put an up to date movies store.
 
