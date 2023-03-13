@@ -5,10 +5,10 @@ __pycache__
 .gitattributes
 !*.zip
 /awesome.gif
-/rt.movie_info.tsv.gz
-/rt.reviews.tsv.gz
-/tmdb.movies.csv.gz
-/tn.movies_bidgets.csv.gz
+/zippedData/rt.movie_info.tsv.gz
+/zippedData/rt.reviews.tsv.gz
+/zippedData/tmdb.movies.csv.gz
+/zippedData/tn.movies_bidgets.csv.gz
 /untitled.tx
 /zippedData/im.db.zip
 /LICENSE.md
