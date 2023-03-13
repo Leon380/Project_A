@@ -1,5 +1,5 @@
 # Microsoft Movie Studio Proposal
-
+![url_of_image](https://github.com/Leon380/Project_A/blob/main/images/micrsoft.jfif)
 ## Project Overview
 The main aim of this analysis is to advise Microsoft on which movies to produce and the cost involved.  Basing on the current moving studios, descriptive analysis on the movie stores and orders as to have a clear picture of which movies are profitable. This will then be used by Microsoft to put an up to date movies store.
 
@@ -28,19 +28,22 @@ This project we used descriptive analysis, including description of trends over 
 
 ## Visualizaations
 ### Revenue analysis
-
+![revenue](https://github.com/Leon380/Project_A/blob/main/images/pie%20chart.png)
 
 65% of the total gross comes from foreign market and 35% come from domestic market. This means foreign market is more profitable due to its population and hence should be targeted 
 
 ### Relationship Between Domestic and Foreign Gross.
+![rel](https://github.com/Leon380/Project_A/blob/main/images/scatter.png)
 
 There is a positive correlation between  domestic and foreign gross . However the relationship is weak. There are some few outliers which should be investigated.
 
 ### Trend Analysis
+![trend](https://github.com/Leon380/Project_A/blob/main/images/trend.png)
 
 Over the past decade, film industry have been increasingly making profit . However , there are a times when the gross drops and the trend is seen in both domestic and foreign gross. in the year 2011, both gross dropped and  there after increase significantly on 2012 before dropping again. 2013,2014 there was a significant drop which went below the previous drop before it climb on 2015 until 2017. 
 
 ### Studio Analysis 
+![studios](https://github.com/Leon380/Project_A/blob/main/images/studio.png)
 
 From a sample of top 100 films, it was found out that there are top 10 common studios. 
 ***BV*** studio is leading in both domestic and foreign at **35** and **31** respectively. Followed by **WB** less by **15** like from **BV**.
